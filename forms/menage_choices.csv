@@ -1,0 +1,50 @@
+list_name,name,label::fr,label::ht
+yes_no,yes,Oui,Wi
+yes_no,no,Non,Non
+sex,female,Femme,Fanm
+sex,male,Homme,Gason
+relation,head,Chef de ménage,Chèf kay
+relation,spouse,Conjoint(e),Konjwen
+relation,child,Enfant,Pitit
+relation,other,Autre,Lòt
+edu,none,Aucun,Pa gen
+edu,primary,Primaire,Primè
+edu,lower_sec,Secondaire 1er cycle,Segondè 1e sik
+edu,upper_sec,Secondaire 2e cycle,Segondè 2e sik
+edu,technical,Technique/Pro,Lekòl teknik/profesyonèl
+edu,higher,Supérieur/Université,Inivèsite
+hh_assets,radio,Radio,Radyo
+hh_assets,phone,Téléphone,Telefòn
+hh_assets,fridge,Frigo,Frijidè
+hh_assets,vehicle,Véhicule,Machin
+hh_assets,solar_home,Système solaire,Sistèm solè
+likert5,very_safe,Très en sécurité,Trè an sekirite
+likert5,somewhat_safe,Plutôt en sécurité,Plito an sekirite
+likert5,neither,Ni l’un ni l’autre,Ni yonn ni lòt
+likert5,somewhat_unsafe,Plutôt en insécurité,Plito pa an sekirite
+likert5,very_unsafe,Pas du tout en sécurité,Pa ditou an sekirite
+incident_type,theft,Vol,Vòl
+incident_type,assault,Agression,Agrèsyon
+incident_type,harassment,Harcèlement,Asèlman
+incident_type,burglary,Cambriolage,Antre vòlè
+incident_type,other,Autre,Lòt
+info_channel,radio,Radio,Radyo
+info_channel,meeting,Réunion communautaire,Ranmasaj kominotè
+info_channel,social,Réseaux sociaux,Rèsò sosyal
+info_channel,noticeboard,Panneau Mairie,Panno Majistra
+info_channel,word_mouth,Bouche à oreille,Boukorey
+dist_band,m100_250,100–250 m,100–250 m
+dist_band,m250_500,250–500 m,250–500 m
+dist_band,gt500,>500 m,>500 m
+y_status,school,Élève/Étudiant,Elèv/Etyd.
+y_status,employed,Salarié,Anplwaye
+y_status,selfemp,À son compte,Travay pou kont li
+y_status,unemployed,Sans activité,San aktivite
+corridor,c1,Traité 1,Trate 1
+corridor,c2,Traité 2,Trate 2
+corridor,c3,Traité 3,Trate 3
+corridor,c4,Traité 4,Trate 4
+corridor,k1,Témoin 1,Temwen 1
+corridor,k2,Témoin 2,Temwen 2
+corridor,k3,Témoin 3,Temwen 3
+corridor,k4,Témoin 4,Temwen 4
